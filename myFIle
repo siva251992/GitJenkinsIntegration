@@ -4,4 +4,6 @@ print("test")
 print("Test")
 print("added a new line")
 print("hi")	
+print("Line 6 added")
+
 

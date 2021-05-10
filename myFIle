@@ -12,7 +12,12 @@ print("Test")
 print("Line 9 adde")
 print('line')
 print('line 10')
+<<<<<<< HEAD
 print("line 15')
 print('line 16')
+=======
+print("delete line 9")
+print('line16')
+>>>>>>> d7eb4c74d385700c7f830ff35cd4dcb69a11aacf
 
 

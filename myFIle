@@ -10,6 +10,10 @@ print("Line 7 added")
 print("Line 8 added")
 print("Test")
 print("Line 9 adde")
+<<<<<<< HEAD
 print('line')
+=======
+print('line 10')
+>>>>>>> e364e1f2158bceb6a1ed845950a85fc8add9c357
 
 
